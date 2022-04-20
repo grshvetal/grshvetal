@@ -1,5 +1,6 @@
-### Hello World! 👋 I am Shvetal.
-
+### Hello World! 👋 I am Shvetal
+#### *user | developer*
+At the frontline between between entropy and information.
 <!--
 **grshvetal/grshvetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
